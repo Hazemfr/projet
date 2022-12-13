@@ -1,0 +1,6 @@
+
+
+23 4 1 4 homme 3 3 1930 electeur 1er liste  3F   
+23 1123 545 34 femme 4 3 1932 electeur vote blanche hjrf   
+12 123 12 45 homme 3 3 1932 electeur pas de vote  hf   
+12 123 12 45 homme 3 3 1932 electeur pas de vote  hf   

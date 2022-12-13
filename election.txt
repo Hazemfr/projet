@@ -1,0 +1,5 @@
+11 10000-50000 ariana 4 5 2002 2eme_tour
+888 10000-50000 tunis 4 4 1993 2eme_tour
+33 5000-10000 tunis 2 4 2000 2eme_tour
+22 1000-5000 tunis 2 4 2002 2eme_tour
+22 1000-5000 ariana 2 4 2002 1er_tour
